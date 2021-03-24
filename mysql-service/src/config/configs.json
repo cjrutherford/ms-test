@@ -1,0 +1,9 @@
+{
+  "primary": {
+    "host": "localhost",
+    "port": "3306",
+    "database": "ms-testing",
+    "user": "root",
+    "password": "root"
+  }
+}
